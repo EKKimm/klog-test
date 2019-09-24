@@ -1,0 +1,11 @@
+{
+  "name": "klog",
+  "version": "1.0.0",
+  "description": "Naver blog clone project",
+  "main": "index.js",
+  "author": "Kim Eun-kyoung",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
