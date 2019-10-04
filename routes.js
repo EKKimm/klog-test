@@ -12,7 +12,7 @@ const EDIT_PROFILE = "/edit-profile";
 const CHANGE_PASSWORD = "/change-password";
 
 //writing
-const WRITING = "/WRITING";
+const WRITING = "/writing";
 const UPLOAD = "/upload";
 const WRITING_DETAIL = "/:id";
 const EDIT_WRITING = "/:id/edit";
